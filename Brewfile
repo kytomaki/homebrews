@@ -1,5 +1,4 @@
 tap "homebrew/core"
-tap "homebrew/versions"
 tap "homebrew/bundle"
 tap "yleisradio/terraforms"
 tap "caskroom/versions"
